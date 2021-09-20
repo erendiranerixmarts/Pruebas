@@ -1,0 +1,3 @@
+[submodule "odoo-account-budget-alert-enterprise"]
+	path = odoo-account-budget-alert-enterprise
+	url = git@github.com:xmarts/odoo-account-budget-alert-enterprise.git
